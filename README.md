@@ -3,8 +3,8 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Moneesha2003=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Moneesha2003&label=Profile%20views&color=0e75b6&style=flat" alt="moneesha2003" /> </p>
+   
   </p>
 
 <br>
@@ -12,11 +12,11 @@
 <p><img align="right" src="https://github.com/Moneesha2003/Moneesha2003/blob/main/animation_500_kxa883sd.gif" alt="Moneesha2003" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 *I’m currently learning Web Development and other programming languages*
 
-- 📫 How to reach me *adampithewan@gmail.com*
+- 📫 How to reach me *moneeshaaravindi2003@gmail.com*
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact :- *Food and Music🎵 are the reasons to live.*
 
 <br>
 
