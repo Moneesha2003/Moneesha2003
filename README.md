@@ -20,8 +20,6 @@
 ---
 
 ## 🚀 What I’m Working On
-
-- 🎓 Final project **Smart Study Abroad Planner** – full-stack web app recommending universities + predicting study-abroad costs (React, Express.js, MySQL, Flask ML API)  
 - 📚 Strengthening UI design & advanced React patterns  
 - 🤝 Open to internships, collaborations, and open-source contributions  
 
@@ -29,12 +27,11 @@
 
 ## 📂 Featured Projects
 
-- [Smart Study Abroad Planner](link-to-your-repo) – University recommendation + cost prediction app with student/admin dashboards and saved favorites  
-- [Super Car Price Prediction System](link-to-your-repo) – ML model & Flask web interface to predict supercar prices  
-- [Pharmacy Management System](link-to-your-repo) – Web application for managing medicine stock, sales, and prescriptions  
-- [Dogs Nutrition Mobile App](link-to-your-repo) – Android app to track dog diets and provide nutritional guidance  
-
-(Replace `link-to-your-repo` with your actual repo URLs.)
+- [Smart Study Abroad Planner]((https://github.com/Moneesha2003/SmartStudyAbroadPlanner-main)) – University recommendation + cost prediction app with student/admin dashboards and saved favorites  
+- [Super Car Price Prediction System]((https://github.com/Moneesha2003/SuperCarPricePredictor)) – ML model & Flask web interface to predict supercar prices  
+- [Pharmacy Management System]((https://github.com/Moneesha2003/DexCare-Pharmacy)) – Web application for managing medicine stock, sales, and prescriptions  
+- [Dogs Nutrition Mobile App]((https://github.com/Moneesha2003/The-World-of-Dogs)) – Android app to track dog diets and provide nutritional guidance  
+- [Restaurant Management System]((https://github.com/Moneesha2003/The-Gallery-Cafe)) - Dynamic web-based system to manage orders, reservations, and customer feedback.
 
 ---
 
