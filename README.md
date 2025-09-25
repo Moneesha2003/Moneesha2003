@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moneesha Aravindi</h1>
 <p align="center">
-  <strong>BSc (Hons) Software Engineering Graduate | Frontend & ML Enthusiast | Full-Stack Developer</strong>
+  <strong>BSc (Hons) Software Engineering Graduate | Frontend Developer</strong>
 </p>
 
 ---
@@ -22,7 +22,7 @@
 ## 🚀 What I’m Working On
 
 - 🎓 Final project **Smart Study Abroad Planner** – full-stack web app recommending universities + predicting study-abroad costs (React, Express.js, MySQL, Flask ML API)  
-- 📚 Strengthening UI/UX design & advanced React patterns  
+- 📚 Strengthening UI design & advanced React patterns  
 - 🤝 Open to internships, collaborations, and open-source contributions  
 
 ---
