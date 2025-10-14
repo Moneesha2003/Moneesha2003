@@ -47,7 +47,7 @@
 ## 📫 Connect With Me
 
 - LinkedIn: [Moneesha Aravindi](http://linkedin.com/in/moneesha-aravindi-b010762bb)  
-- Email: [moneeshaaravindi2003@gmail.com](mailto:moneeshaaravindi2003@gmail.com)  
+- Email: [aravindimoneesha@gmail.com](mailto:aravindimoneesha@gmail.com)  
 - GitHub: [Moneesha2003](https://github.com/Moneesha2003)  
 
 ---
