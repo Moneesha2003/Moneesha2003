@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Moneesha Aravindi</h1>
+<h1 align="center">Hi, I'm Moneesha Aravindi</h1>
 <p align="center">
   <strong>BSc (Hons) Software Engineering Graduate | Frontend Developer</strong>
 </p>
 
 ---
 
-## 🧰 Skills & Tech Stack
+## Skills & Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,python,flask,java,cpp,cs,php,git" alt="tech icons" />
@@ -14,18 +14,18 @@
 - **Programming:** Java, C++, C#, PHP, JavaScript, Python, SQL, HTML, CSS  
 - **Frameworks & Libraries:** React.js, Express.js, Flask (ML APIs)  
 - **Databases:** MySQL, SQL Server  
-- **Tools:** VS Code, NetBeans, Visual Studio, Android Studio, Git/GitHub, XAMPP, MySQL Workbench, phpMyAdmin  
+- **Tools:** VS Code, NetBeans, Visual Studio, Android Studio, Git/GitHub, XAMPP, MySQL Workbench, phpMyAdmin, MongoDB
 - **Concepts:** OOP, SDLC, Full-Stack Web Development, API Integration, ML Model Deployment  
 
 ---
 
-## 🚀 What I’m Working On
-- 📚 Strengthening UI design & advanced React patterns  
-- 🤝 Open to internships, collaborations, and open-source contributions  
+## What I’m Working On
+- Strengthening UI design & advanced React patterns  
+- Open to internships, collaborations, and open-source contributions  
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 - [Smart Study Abroad Planner]((https://github.com/Moneesha2003/SmartStudyAbroadPlanner-main)) – University recommendation + cost prediction app with student/admin dashboards and saved favorites  
 - [Super Car Price Prediction System]((https://github.com/Moneesha2003/SuperCarPricePredictor)) – ML model & Flask web interface to predict supercar prices  
@@ -35,7 +35,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Moneesha2003&show_icons=true&theme=default" alt="GitHub Stats" />
@@ -44,7 +44,7 @@
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - LinkedIn: [Moneesha Aravindi](http://linkedin.com/in/moneesha-aravindi-b010762bb)  
 - Email: [aravindimoneesha@gmail.com](mailto:aravindimoneesha@gmail.com)  
